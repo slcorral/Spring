@@ -1,0 +1,104 @@
+
+.bloqueForm{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.bloqueForm input {
+	display:inline;
+	margin-left:20px;
+}
+
+.bloqueForm p {
+	 display:inline;
+}
+
+.columna {
+	width:30%;
+	height:100%;
+	float:left;
+	overflow:hidden;
+	border;
+	margin-left:1%;
+	margin-top:1%;
+    border: 1px solid silver;
+}
+
+
+.columnaForm{
+	width:30%;
+	height:100%;
+	float:left;
+	overflow:hidden;
+	border;
+	margin-left:1%;
+	margin-top:1%;
+    border: 1px solid silver;
+}
+
+.columnaForm70{
+	width:30%;
+	height:100%;
+	float:left;
+	overflow:hidden;
+	border;
+	margin-left:1%;
+	margin-top:1%;
+    border: 1px solid silver;
+}
+
+
+.row {
+	width:100%;
+	height:50%;
+	overflow:hidden;
+}
+
+.row20{
+	width:100%;
+	height:20%;
+	overflow:hidden;
+}
+
+.row80{
+	width:100%;
+	height:70%;
+	overflow:hidden;
+	
+}
+
+.row10{
+	width:100%;
+	height:5%;
+}
+
+.anchoAlto{
+	width:100%;
+	height:100%;
+}
+
+.centrado{
+	margin-left:50%;
+	margin-right:50%;
+}
+
+.countBankTable{
+	 border: 1px solid silver;
+}
+
+.countBankTable td{
+		line-height: 100px !important;	
+}
+
+.errorPanel{
+	display:block !important;
+}
+
+.messageOk{
+	margin-left:50%;
+	margin-right:50%;
+	width:100%;
+	heigth:100%;
+}
+
+

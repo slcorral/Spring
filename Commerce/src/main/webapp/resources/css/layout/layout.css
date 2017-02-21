@@ -1,0 +1,232 @@
+.tableAncho{
+		width:100%;
+}
+
+.tableNoMargin{
+	width:100%;
+	margin-left:0px !important;
+}
+	
+.cabecera{
+		width:100%;
+		height:5%;
+		border: 1px solid silver;
+}
+	
+.btnIzquierdo{
+	float:left;
+	margin-left:10px;
+}
+
+.btnDerecho{
+	float:right;
+	margin-right:10px;
+}
+
+.noVisible{
+	display:none;
+}
+
+
+.btnEnabled{
+	background: red;
+}
+
+
+
+.btnDisabled{
+	background:blue;	
+}
+
+.menuLateral{
+		width:10%;
+		height:80%;
+		border:solid;
+		float:left;
+		border: 1px solid silver;
+}
+	
+.menuLateral a{
+	  display:block;
+	  padding-top:10px; 
+}
+
+
+.logoEmpresa{
+	margin-top:20%;
+}
+
+
+.companyImage{
+	src=""
+}
+
+
+.positionMenu{
+	margin-top:40%;	
+}
+
+
+.logo{
+	width:50px;
+}
+	
+	
+.pie{
+		width:100%;
+		height:10%;
+		border:solid;
+		clear:both;
+		border: 1px solid silver;
+}
+	
+.cuerpo{
+    	width:90%;
+    	height:80%;
+    	border:dash;
+    	float:left;
+    	overflow:hidden;
+    	border: 1px solid silver;
+}
+   
+.html{
+    	background-color:red;
+    	width:100%;
+    	height:100%;
+    	overflow:hidden;
+}
+     
+.body{
+    border: 1px solid silver;
+    width:100%;
+    height:100%;
+}
+
+
+.panelInformar{
+	width:100%;
+	height:100%;
+    border: 1px solid silver;
+	overflow:hidden;
+}
+
+
+.filaOculta{
+	display:none;
+}
+
+
+.centrado{
+	margin-left:50%;
+	margin-right:50%;
+	width:100%;
+}
+
+
+.vertical{
+	display:inline;
+}
+
+
+.expandir{
+	width:100%;
+	height:100%;
+}
+
+.expandirContent{
+	width:100%;
+	height:93.5%;
+}
+
+.expandir90{
+	width:100%;
+	height:50.5%;
+}
+
+.expandirT{
+	width:100%;
+	height:81.5%;
+}
+
+
+.expandir80{
+	width:100%;
+	height:93%;
+}
+
+.expandir80N{
+	width:100%;
+	height:85%;
+}
+
+.heredado{
+	width:inherit;
+	height:inherit;
+}
+
+
+.proveedor input {
+	display:inline;
+	margin-left:20px;	
+}
+ 
+.proveedor p {
+	display:inline;
+}
+
+
+.marginTabla{
+	margin-top:1%;
+	margin-left:1%;
+}
+
+.section{
+	
+	height:50%;
+}
+
+
+.campoBuscador{
+	float:left;
+	margin-left: 36px;
+    margin-top: 44px;
+    
+}
+
+.campoBuscador p {
+	 display:inline;
+	 margin-right:5px;
+}
+
+.campoBuscador input {
+	display:inline;
+}
+
+
+.paginaButton{
+	width:10%;
+	heigth:100%;
+	float:left;
+	text-align:center;
+}
+
+.containerPages{
+	width:80%;
+	heigth:100%;
+	float:left;	
+}
+
+.page{
+	width:2%;
+	height:100%;
+	float:left;
+	text-align:center;
+	margin:auto;
+}	
+
+
+
+
+
+
+
